@@ -1,0 +1,7 @@
+{
+  "name": "Multi-Agent Banking Fraud Investigation Lab",
+  "description": "An interactive, enterprise-grade learning platform teaching software architects how to design and build production multi-agent AI systems for banking fraud investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
